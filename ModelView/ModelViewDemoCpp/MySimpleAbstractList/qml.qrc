@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SliderVolume.qml</file>
+        <file>mainMedia.qml</file>
+    </qresource>
+</RCC>

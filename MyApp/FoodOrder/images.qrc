@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/backBtn.png</file>
+        <file>images/homeBtn.png</file>
+        <file>images/musicIcon.png</file>
+        <file>images/setting_icon.png</file>
+        <file>images/videoIcon.png</file>
+        <file>images/aaa.png</file>
+        <file>images/tra_xanh.png</file>
+    </qresource>
+</RCC>

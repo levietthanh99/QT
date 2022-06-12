@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DemoJavaScript.js</file>
+        <file>DemoJavaScript.qml</file>
+        <file>DemoJavaScript2.js</file>
+        <file>myRectangle.qml</file>
+        <file>MyComponent.qml</file>
+    </qresource>
+</RCC>

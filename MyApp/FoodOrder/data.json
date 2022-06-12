@@ -1,0 +1,28 @@
+{
+    "tra xanh": {
+		"pathImage": "qrc:/images/tra_xanh.png",
+                "inventory": 10,
+                "price": 35000
+	},
+	"tra den": {
+		"pathImage": "qrc:/images/tra_xanh.png",
+                "inventory": 12,
+                "price": 36000
+	},
+	"sua chua": {
+		"pathImage": "qrc:/images/tra_xanh.png",
+                "inventory": 13,
+                "price": 37000
+	},
+	"ca phe": {
+		"pathImage": "qrc:/images/tra_xanh.png",
+                "inventory": 14,
+                "price": 38000
+        },
+        "tra sua": {
+                "pathImage": "qrc:/images/tra_xanh.png",
+                "inventory": 15,
+                "price": 39000
+        }
+
+}

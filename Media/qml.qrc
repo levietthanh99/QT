@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/StatusBar.qml</file>
+        <file>qml/screens/MusicListScreen.qml</file>
+        <file>qml/screens/MusicPlayerScreen.qml</file>
+        <file>qml/screens/VideoListScreen.qml</file>
+        <file>qml/screens/VideoPlayerScreen.qml</file>
+        <file>qml/components/ScrollingText.qml</file>
+        <file>qml/components/ProgressBar.qml</file>
+    </qresource>
+</RCC>

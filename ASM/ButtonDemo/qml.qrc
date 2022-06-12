@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>MyRectangle.qml</file>
+        <file>DemoLoader.qml</file>
+        <file>DemoButton.qml</file>
+    </qresource>
+</RCC>

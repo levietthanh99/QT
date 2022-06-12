@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/StatusBar.qml</file>
+        <file>qml/components/VolumeSetting.qml</file>
+        <file>qml/screens/HomeMenuScreen.qml</file>
+        <file>qml/screens/HomeSettupScreen.qml</file>
+    </qresource>
+</RCC>

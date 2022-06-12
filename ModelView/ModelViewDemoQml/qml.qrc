@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DemoColumnRepeater.qml</file>
+        <file>Model1.qml</file>
+    </qresource>
+</RCC>

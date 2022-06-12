@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuButton.qml</file>
+        <file>MenuCard.qml</file>
+        <file>MenuStack.qml</file>
+    </qresource>
+</RCC>

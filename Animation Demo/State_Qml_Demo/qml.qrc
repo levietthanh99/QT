@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Change_Anchor_With_State_Qml.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/components/StatusBar.qml</file>
+        <file>qml/components/VolumeSetting.qml</file>
+        <file>qml/screens/HomeMenuScreen.qml</file>
+        <file>qml/screens/OrderScreen.qml</file>
+        <file>qml/components/SnipBox.qml</file>
+        <file>qml/screens/PaymentScreen.qml</file>
+    </qresource>
+</RCC>
